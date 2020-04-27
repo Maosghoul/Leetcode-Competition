@@ -1,0 +1,2 @@
+# Leetcode-Competition
+resource code
