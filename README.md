@@ -1,2 +1,4 @@
 # Leetcode-Competition
-resource code
+
+make time  solve some competitions
+
